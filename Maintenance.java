@@ -78,7 +78,7 @@ public class Maintenance {
 	
 	public void validerMaint()
 	{
-		etat = true;
+		etat = 1;
 	}
 	
 	public int getidOp()
